@@ -1,0 +1,35 @@
+{
+  "name": "@stuf/dfhub-viewer",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "homepage": "https://github.com/stuf/df-hub#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuf/df-hub.git"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/stuf/df-hub/issues"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.3",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
