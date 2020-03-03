@@ -1,0 +1,16 @@
+module.exports = {
+  CAMP: 'camp',
+  CASTLE: 'castle',
+  CAVE: 'cave',
+  DARK_FORTRESS: 'dark_fortress',
+  DARK_PITS: 'dark_pits',
+  FOREST_RETREAT: 'forest_retreat',
+  FORTRESS: 'fortress',
+  HAMLET: 'hamlet',
+  HILLOCKS: 'hillocks',
+  LABYRINTH: 'labyrinth',
+  LAIR: 'lair',
+  SHRINE: 'shrine',
+  TOWN: 'town',
+  VAULT: 'vault',
+};

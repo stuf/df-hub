@@ -1,0 +1,38 @@
+{
+  "name": "@stuf/graphql-server",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "homepage": "https://github.com/stuf/df-hub#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuf/df-hub.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/stuf/df-hub/issues"
+  },
+  "dependencies": {
+    "apollo-server": "^2.10.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^14.6.0",
+    "graphql-import": "^1.0.0-beta.2",
+    "graphql-tools": "^4.0.7",
+    "partial.lenses": "^14.17.0",
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0"
+  }
+}
