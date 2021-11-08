@@ -24,7 +24,7 @@
     "url": "https://github.com/stuf/df-hub/issues"
   },
   "dependencies": {
-    "apollo-server": "^2.10.1",
+    "apollo-server": "^2.25.3",
     "dotenv": "^8.2.0",
     "graphql": "^14.6.0",
     "graphql-import": "^1.0.0-beta.2",
